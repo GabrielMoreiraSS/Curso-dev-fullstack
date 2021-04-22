@@ -1,0 +1,18 @@
+ body {
+    background: rgb(206,206,206);
+}
+
+.foto-principal {
+    border: 2px inset #818181;
+    border-radius: 50%;
+    
+    /* este tipo de comando é um shorthand*/
+   
+    /* 
+    Formas diferentes de usar border:
+    border-width: 5x;
+    border-style: solid;
+    border-color: black;
+    */
+}
+
