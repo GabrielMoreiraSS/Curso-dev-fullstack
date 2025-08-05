@@ -1,0 +1,41 @@
+a {
+    color: red;
+}
+
+a:hover {
+    color: green;
+    font-weight: bold
+}
+
+
+/* tipos de pseudo classes */
+
+/* 
+a:visited {
+    color: grey;
+}
+
+a:active { 
+    color: red;
+}
+*/
+
+
+
+/*
+ul li:first-child{
+    color: red;
+}
+*/
+
+/*
+ul li:last-child{
+    color: blue;
+}
+*/
+
+/*
+ul li:nth-child(6){
+    color: white;
+}
+*/
